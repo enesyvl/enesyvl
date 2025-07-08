@@ -12,7 +12,6 @@ Bla bla bla bla something blabla etc etc etc i know some c# c++ java php html js
 ![](https://nirzak-streak-stats.vercel.app/?user=enesyvl&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enesyvl&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
